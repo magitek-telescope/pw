@@ -1,6 +1,6 @@
 {
   "name": "@potato4d/pw",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Cipher",
   "main": "lib/core/index.js",
   "scripts": {
@@ -16,7 +16,8 @@
     "type": "git",
     "url": "https://github.com/potato4d/pw.git"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "ava": "^0.23.0"
   }
 }
