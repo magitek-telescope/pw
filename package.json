@@ -1,12 +1,15 @@
 {
   "name": "@potato4d/pw",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple Cipher",
+  "main": "lib/core/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin" : {
+    "pw": "./bin/pw"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "potato4d",
+  "license": "MIT"
 }
