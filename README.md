@@ -1,5 +1,7 @@
 # @potato4d/pw
 
+[![https://gyazo.com/dd4227b2e111c53793ce0bdf6cf17e57](https://i.gyazo.com/dd4227b2e111c53793ce0bdf6cf17e57.gif)](https://gyazo.com/dd4227b2e111c53793ce0bdf6cf17e57)
+
 Simple Cipher.
 
 ## Installation
