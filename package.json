@@ -1,15 +1,22 @@
 {
   "name": "@potato4d/pw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Cipher",
   "main": "lib/core/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava -v"
   },
-  "bin" : {
+  "bin": {
     "pw": "./bin/pw"
   },
   "keywords": [],
   "author": "potato4d",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potato4d/pw.git"
+  },
+  "dependencies": {
+    "ava": "^0.23.0"
+  }
 }
